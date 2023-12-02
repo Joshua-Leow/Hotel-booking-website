@@ -1,0 +1,9 @@
+click
+Flask
+Flask-Login
+flask-mongoengine
+Flask-WTF
+Jinja2
+mongoengine
+pymongo
+Werkzeug
